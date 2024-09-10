@@ -296,6 +296,12 @@ public static void customerTable()throws Throwable
 	
 	
 }
+public static void add()
+{
+	int a=876,b=987,c;
+	c=a+b;
+	System.out.println(c);
+}
 }
 
 
